@@ -1,10 +1,38 @@
-# Welcome to GENG Wei's Site
+# GENG Wei
 
-# Bio
+### Bio
 
 GENG Wei is me.
 
+##### Education
 
+hi
+
+hi
+
+hi
+
+##### Experience
+
+hello
+
+hello
+
+##### Publications
+
+1
+
+2
+
+3
+
+##### Others
+
+a
+
+b
+
+c
 
 ### Contact:
 
